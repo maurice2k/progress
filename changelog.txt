@@ -1,0 +1,13 @@
+Version 0.7 [2008-05-04]
+------------------------
+- Changed output for easier readability
+- Fixed time formatting bug
+- Added max-load feature for Linux version
+- Added elapsed time (not only ETA)
+- Added transfer rate info
+- Made progress Windows(tm) compatible
+- Cleaned up the sources
+
+Version 0.6 [2007-11-15]
+------------------------
+- First public release
